@@ -1,6 +1,6 @@
 # Hi there! I'm Shaik Ismail 👋
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Your+Custom+Banner+Here)  
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Shaik+Ismail's+GitHub+Profile)  
 
 ---
 
@@ -68,7 +68,7 @@ I'm a passionate **Java Developer** with expertise in building robust, scalable,
 
 ## 🎨 Fun Fact
 
-> "I'm a passionate all-rounder in both coding and cricket! Always ready to tackle challenges on and off the field. 🏀⚽"
+> "I'm a passionate all-rounder in both coding and cricket! Always ready to tackle challenges on and off the field. 🏀🏈"
 
 ---
 
